@@ -1,4 +1,0 @@
-# Project exclude paths
-/node_modules/
-/contracts/Migrations.sol/
-.gitignore
